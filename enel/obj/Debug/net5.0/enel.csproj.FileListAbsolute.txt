@@ -1,0 +1,16 @@
+C:\Users\allbe\source\repos\enel\enel\bin\Debug\net5.0\enel.exe
+C:\Users\allbe\source\repos\enel\enel\bin\Debug\net5.0\enel.deps.json
+C:\Users\allbe\source\repos\enel\enel\bin\Debug\net5.0\enel.runtimeconfig.json
+C:\Users\allbe\source\repos\enel\enel\bin\Debug\net5.0\enel.runtimeconfig.dev.json
+C:\Users\allbe\source\repos\enel\enel\bin\Debug\net5.0\enel.dll
+C:\Users\allbe\source\repos\enel\enel\bin\Debug\net5.0\ref\enel.dll
+C:\Users\allbe\source\repos\enel\enel\bin\Debug\net5.0\enel.pdb
+C:\Users\allbe\source\repos\enel\enel\obj\Debug\net5.0\enel.csprojAssemblyReference.cache
+C:\Users\allbe\source\repos\enel\enel\obj\Debug\net5.0\enel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allbe\source\repos\enel\enel\obj\Debug\net5.0\enel.AssemblyInfoInputs.cache
+C:\Users\allbe\source\repos\enel\enel\obj\Debug\net5.0\enel.AssemblyInfo.cs
+C:\Users\allbe\source\repos\enel\enel\obj\Debug\net5.0\enel.csproj.CoreCompileInputs.cache
+C:\Users\allbe\source\repos\enel\enel\obj\Debug\net5.0\enel.dll
+C:\Users\allbe\source\repos\enel\enel\obj\Debug\net5.0\ref\enel.dll
+C:\Users\allbe\source\repos\enel\enel\obj\Debug\net5.0\enel.pdb
+C:\Users\allbe\source\repos\enel\enel\obj\Debug\net5.0\enel.genruntimeconfig.cache
